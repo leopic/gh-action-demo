@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/leopic/gh-action-demo#readme",
   "dependencies": {
-    "@actions/core": "^1.2.4"
+    "@actions/core": "^1.2.6"
   },
   "devDependencies": {}
 }
